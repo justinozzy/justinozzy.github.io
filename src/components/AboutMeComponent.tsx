@@ -16,15 +16,15 @@ const AboutMe = () => {
             <div className="max-w-md">
                 <p className="text-lg leading-relaxed">
                     <span className="block text-2xl font-semibold mb-4">
-                        Hi visitor, I'm Justin!
+                        {`Hi visitor, I'm Justin!`}
                     </span>
-                    In 2024 I graduated from Arizona State University with a Bachelor's Degree in Computer Science.
+                    {`In 2024 I graduated from Arizona State University with a Bachelor's Degree in Computer Science.`}
                     <br />
                     <br />
-                    I'm a talented and aspiring software engineer with a deep passion for tackling challenges in software development and system architecture.
+                    {`I'm a talented and aspiring software engineer with a deep passion for tackling challenges in software development and system architecture.`}
                     <br />
                     <br />
-                    I'm currently searching for an opportunity that will fuel my curiosity and expose me to new experiences within the software engineering world.
+                    {`I'm currently searching for an opportunity that will fuel my curiosity and expose me to new experiences within the software engineering world.`}
                 </p>
             </div>
         </div>
