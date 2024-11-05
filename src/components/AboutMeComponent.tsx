@@ -5,7 +5,7 @@ const AboutMe = () => {
         <div className="flex justify-center items-center space-x-64 p-6 mt-16 text-fade-down">
             <div className="flex-shrink-0">
                 <Image
-                    src="/justinozzy.github.io/thebigcheese.jpg"
+                    src="/thebigcheese.jpg"
                     width={400}
                     height={500}
                     alt="Justin Oswald Himself"
